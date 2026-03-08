@@ -11,8 +11,8 @@ I recently created AI Chess, a web application that allows users to play chess a
 
 * **The Challenge:** Implementing LLM as opponent to a chess game.
 * **Tech Stack:** Node.js, Express, REST APIs, Gemini API, JS, HTML and CSS.
-* **Are you smarter then AI? [🎮 Play the Game](https://chess.ardy.codes)**
-* **[💻 View the Source Code & Architecture](https://github.com/sumarditjhai-sys/aichess)**
+* **Can you beat an AI? [🎮 Play the Game](https://chess.ardy.codes)**
+* **[💻 View the Source Code](https://github.com/sumarditjhai-sys/aichess)**
 
 ## 💻 Technical Arsenal
 **Languages & Core Backend:**
