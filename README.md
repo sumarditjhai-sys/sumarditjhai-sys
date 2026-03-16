@@ -17,7 +17,7 @@ I am a backend developer who specializes in building robust, scalable APIs and m
 2. **MCP Sales Analytics Server** which is a real time data extraction and analytics from private SQL data into LLM.
 *	This project implements a Model Context Protocol (MCP) server that acts as a bridge between an LLM and a PostgreSQL database. It allows users to ask questions about sales data in plain English like "Who are our top 10 enterprise customers?" or "Tell me everything about [Customer], including their order history." and get immediate, accurate and real-time answers.
 *	Tech stack: Python, MCP SDK, Docker.
-*	* **[💻 View the Source Code](https://github.com/sumarditjhai-sys/mcpserver)**
+*	**[💻 View the Source Code](https://github.com/sumarditjhai-sys/mcpserver)**
 
 
 ## 💻 Technical Arsenal
