@@ -6,13 +6,19 @@ I am a backend developer who specializes in building robust, scalable APIs and m
 
 *Note: The majority of my professional commits are in private GitLab/GitHub repositories using company issued credentials. Below is a showcase of my personal projects.*
 
-## 🚀 Featured Project: AI Chess
-I recently created AI Chess, a web application that allows users to play chess against a Large Language Model (LLM).
+## 🚀 Open Source AI Projects:
+1. **AI Chess**, a web application that allows users to play chess against a Large Language Model (LLM).
 
 * **The Challenge:** Implementing LLM as opponent to a chess game.
 * **Tech Stack:** Node.js, Express, REST APIs, Gemini API, JS, HTML and CSS.
 * **Can you beat an AI? [🎮 Play the Game](https://chess.ardy.codes)**
 * **[💻 View the Source Code](https://github.com/sumarditjhai-sys/aichess)**
+
+2. **MCP Sales Analytics Server** which is a real time data extraction and analytics from private SQL data into LLM.
+*	This project implements a Model Context Protocol (MCP) server that acts as a bridge between an LLM and a PostgreSQL database. It allows users to ask questions about sales data in plain English like "Who are our top 10 enterprise customers?" or "Tell me everything about [Customer], including their order history." and get immediate, accurate and real-time answers.
+*	Tech stack: Python, MCP SDK, Docker.
+*	* **[💻 View the Source Code](https://github.com/sumarditjhai-sys/mcpserver)**
+
 
 ## 💻 Technical Arsenal
 **Languages & Core Backend:**
