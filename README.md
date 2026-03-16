@@ -2,7 +2,7 @@
 
 **Full Stack Developer** | **API Designer** | **AI Integration**
 
-I am a backend developer who specializes in building robust, scalable APIs and managing complex server-side state. My recent professional work includes engineering backend systems for a major fintech startup and a leading payment gateway company, handling secure transactions and high volume data. 
+I am a fullstack developer who specializes in building robust, scalable APIs and managing complex server-side state. My recent professional work includes engineering backend systems for a major fintech startup and a leading payment gateway company, handling secure transactions and high volume data. 
 
 *Note: The majority of my professional commits are in private GitLab/GitHub repositories using company issued credentials. Below is a showcase of my personal projects.*
 
