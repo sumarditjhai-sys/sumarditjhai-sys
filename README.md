@@ -9,7 +9,7 @@ I am a backend developer who specializes in building robust, scalable APIs and m
 ## 🚀 Open Source AI Projects:
 1. **AI Chess**, a web application that allows users to play chess against a Large Language Model (LLM).
 
-* **The Challenge:** Implementing LLM as opponent to a chess game.
+* **The Challenge:** Implementing LLM as an opponent to a chess game.
 * **Tech Stack:** Node.js, Express, REST APIs, Gemini API, JS, HTML and CSS.
 * **Can you beat an AI? [🎮 Play the Game](https://chess.ardy.codes)**
 * **[💻 View the Source Code](https://github.com/sumarditjhai-sys/aichess)**
